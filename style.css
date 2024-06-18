@@ -1,0 +1,20 @@
+#Hero{
+    height: 100vh;
+    background-image: url(./images/pexels-stywo-1054218.jpg);
+    background-size: cover;
+}
+
+#MyPicture{
+    height: 150px;
+    border-radius: 50%; 
+}
+
+.my-color{
+    background-color: #5095A8;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.video-borders{
+    border-radius: 5px;
+}
